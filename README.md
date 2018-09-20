@@ -1,4 +1,4 @@
-<h3> Gateway de Pagamentos EVSPay</h3>
+<h3> Gateway de Pagamentos EVSPay®</h3>
 <p>EVSPay é uma das soluções de pagamento da Empresa Evolution Services.</p>
 
 <h3> Formas de Pagamento</h3>
